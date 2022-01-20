@@ -28,3 +28,5 @@ sidebar_home_link:  true
 
 github:
   repo:             https://github.com/karloespiritu/blackdoc
+
+theme: jekyll-theme-merlot
